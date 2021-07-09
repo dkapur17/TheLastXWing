@@ -1,6 +1,26 @@
-# Computer Graphics Assignment 2
+# Star Wars - The Last X-Wing
 
-## Star Wars - The Last X-Wing
+
+### The Trailer
+
+https://user-images.githubusercontent.com/37783178/125081563-c7402580-e0e3-11eb-8433-c179aa623f05.mov
+
+
+### The Models
+
+##### The X-Wing
+<img src="./Misc/XWing.gif" width="300px"/>
+
+#### The Imperial Tie-Fighter
+<img src="./Misc/Tie.gif" width="300px"/>
+
+#### The Rebellion Crest
+<img src="./Misc/Crest.gif" width="300px"/>
+
+### The Gameplay
+
+<img src="./Misc/TLX.gif" width="800px">
+(Movement lag due to recording software)
 
 #### What's there to see?
 
